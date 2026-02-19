@@ -3,8 +3,9 @@ name: psychological-safety-creation
 description: Create conditions where another person feels safe enough to be honest, vulnerable, and explore difficult material without fear of judgment.
 license: MIT
 metadata:
+  version: 1.0.4763
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
 - psychological-safety-creation
